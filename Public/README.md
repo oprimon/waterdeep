@@ -2,7 +2,7 @@
 title: Drachenjagd in Waterdeep
 showHero: true
 description: Erkunde Waterdeep
-image: karibik_intro.png
+image: waterdeep-dragon-heist.jpg
 cta:
   - href: /02+Personen
     label: Die Protagonisten
