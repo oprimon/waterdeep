@@ -6,6 +6,7 @@ image: karibik_intro.png
 cta:
   - href: /02+Personen
     label: Die Protagonisten
+syntaxMode: mdx
 ---
 <List 
   dir="/01 Story" 
