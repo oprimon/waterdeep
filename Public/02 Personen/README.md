@@ -1,5 +1,6 @@
 ---
 title: Die Protagonisten
+syntaxMode: mdx
 ---
 <List 
   dir="/02 Personen/01 Protagonisten" 
