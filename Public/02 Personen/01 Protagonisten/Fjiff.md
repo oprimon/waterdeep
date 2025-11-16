@@ -3,7 +3,7 @@ aliases:
   - Fjiff Doppelsicht
 title: Fjiff Doppelsicht
 description:
-preview: /02 Personen/01 Protagonisten/etienne.png
+preview: /02 Personen/01 Protagonisten/fjiff.jpg
 ---
 ## Aussehen
 ![[fjiff.jpg|150]]
