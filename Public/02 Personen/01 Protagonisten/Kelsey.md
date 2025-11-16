@@ -5,7 +5,7 @@ title: Kelsenellenelvial Gil-Ravadry
 description: Warum so grimmig?
 preview: /02 Personen/01 Protagonisten/kelsey.jpeg
 ---
-### Aussehen
+## Aussehen
 ![[kelsey.jpeg|200]]
 Ein männlicher Elf von ca. 1,87m Größe, mit recht blasser Haut, einem zierlichen Gesicht, spitzen Ohren, langem dunkelbraunem Haar und einem schlanken aber trainierten Körper. Bei genauerem Hinsehen kann man erkennen, dass seine Haut mit einer Art Puder aufgehellt ist. 
 
