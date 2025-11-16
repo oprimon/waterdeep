@@ -1,0 +1,1 @@
+- Symbol: Auge mit Strahlen, ähnlich einer Sonne
