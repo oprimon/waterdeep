@@ -9,5 +9,5 @@ syntaxMode: mdx
     headline:"title", 
     summary:"description"
   }} 
-  pageSize={5} 
+  pageSize={4} 
 />
