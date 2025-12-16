@@ -1,2 +1,7 @@
+---
+aliases:
+  - Floon
+---
+
 - Freund von [[Volothamp Geddarm|Volo]]
 - ein Mann Anfang dreißig, gutaussehend, mit einem Einhorn-Anhänger um den Hals
