@@ -1,26 +1,5 @@
-.rendered-mdx {
-  --tw-prose-bullets: #a59ea7 !important; /* Bullet Points */
-}
 
-.site-navbar, 
-.page-hero-container {
-    background-color: rgb(198 225 241) !important;
-}
 
-body {
-    background-color: rgb(188 200 233) !important;
-}
-
-.site-tree-item-self,
-.site-tree-item-text,
-.page-header-description,
-.hr {
-  color: #52525B;
-}
-
-.site-tree-item-self.is-current {
-  color: #27272A;
-}
 
 img:not(.site-navbar-site-logo, .page-hero-image) {
     box-shadow: 3px 4px 6px 1px rgba(0, 0, 0, 0.3);
