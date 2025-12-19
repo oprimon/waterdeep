@@ -1,3 +1,0 @@
-- Eine neue Agentin der [[Zhentarim]].
-- Passt laut [[Renaer Neverember]] nicht zu ihr.
-- Gewöhnlich von 12 bis 20 Uhr im [[Yawning Portal]] anzutreffen.
