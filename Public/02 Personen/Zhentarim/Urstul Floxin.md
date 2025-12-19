@@ -1,0 +1,4 @@
+- Hat [[Skeemo Weirdbottle]] mit über dreißig Messerstichen in [[Xan]]s Zimmer ermordet.
+- Mitglied der [[Zhentarim]], enger Berater von [[Manshoon]]
+- Bekannt für gewaltvolle und blutrünstige Art. 
+- Ansässig im [[North Ward]].
