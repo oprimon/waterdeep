@@ -1,1 +1,2 @@
+- A powerful criminal organization led by the beholder Xanathar, known for its control over various illegal activities in Waterdeep.
 - Symbol: Auge mit Strahlen, ähnlich einer Sonne
