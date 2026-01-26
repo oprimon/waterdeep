@@ -1,0 +1,2 @@
+- Eine freundliche Frau
+- Arbeitet im [[Emberlight]] als Schankmaid
