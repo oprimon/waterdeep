@@ -1,0 +1,2 @@
+- junger Bursche
+- Arbeitet im [[Emberlight]] als Schankbursche
