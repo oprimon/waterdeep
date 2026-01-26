@@ -1,0 +1,1 @@
+- Wurde von [[Zhentarim]] entführt und übel misshandelt. Die Helden konnten sie retten, aber ihr Geist war verloren.
