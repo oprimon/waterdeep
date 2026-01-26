@@ -1,0 +1,1 @@
+A coalition of cities and towns along the Sword Coast and in the North, including Waterdeep. They are a political and military force, dedicated to stability and mutual defense.
