@@ -1,0 +1,4 @@
+- Bekannter von [[Aurel]]. Hat sich von ihm illegale Tränke brauen lassen.
+- Könnte was mit dem Brand im [[Emberlight|Gentle Ember]] zu tun haben.
+- Steckt vielleicht mit dem [[Xanathar-Syndikat]] unter eine Decke.
+- Steht unter Beobachtung von 
