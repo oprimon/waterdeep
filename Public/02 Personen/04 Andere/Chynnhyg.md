@@ -1,0 +1,2 @@
+- Besitzer der Taverne [[Skewered Dragon]].
+- Unliebsamer Bekannter von [[Aurel]]

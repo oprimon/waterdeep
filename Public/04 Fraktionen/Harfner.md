@@ -1,1 +1,2 @@
-A group of spies and agents who work behind the scenes to maintain balance and fight tyranny. They often use adventurers as tools to achieve their goals.
+- A group of spies and agents who work behind the scenes to maintain balance and fight tyranny. They often use adventurers as tools to achieve their goals.
+- [[Aurel]] ist den Harfnern beigetreten.
