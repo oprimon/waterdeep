@@ -19,3 +19,7 @@ Meist schaut er sich interessiert in der Gegend um und lächelt, als würde er d
 Er ist es gewohnt, dass man ihn Kelsey nennt, weil kaum jemand in der Lage ist, oder sich die Mühe macht, seinen Namen korrekt auszusprechen.
 
 ## Beziehungen
+
+## Zitate
+- Aufrichtigkeit ist der Fluss, der das Herz rein und klar hält.
+- Das Licht der Wahrheit wird dich Lügen strafen!
