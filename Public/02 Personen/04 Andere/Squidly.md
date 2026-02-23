@@ -1,0 +1,2 @@
+- Kaptain der Dreierbande, roter Tiefling.
+- Eines der Waisenkinder, die im Manor gespielt haben, bevor es von [[Aurel]]  übernommen wurde.
