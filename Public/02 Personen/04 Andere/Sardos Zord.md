@@ -1,0 +1,2 @@
+- Käptn Zord, alter Freund von [[Mirael]]s Vater
+- Hat den Wein der Stoutfellow Farm gelobt und advertised.
